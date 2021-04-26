@@ -1,0 +1,3 @@
+[submodule "backend_wakeBoard_blog"]
+	path = backend_wakeBoard_blog
+	url = https://github.com/michaelgtfr/backend_wakeBoard_blog.git
